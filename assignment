@@ -1,0 +1,4 @@
+sample_data = read.csv("C:\\Work\\PFDA\\employee_attrition.csv", header = TRUE)
+
+
+View(sample_data)
